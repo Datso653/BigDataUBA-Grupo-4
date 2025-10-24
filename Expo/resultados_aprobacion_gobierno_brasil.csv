@@ -1,0 +1,51 @@
+﻿Variable,Coeficiente,Error_Estándar,P_Value,Odds_Ratio,Significativo
+"P19ST: Cuán democrático es {PAÍS}. El “1"" quiere decir que {PAÍS} no es democrático y el “10"" quiere decir que {PAÍS} es totalmente democrático.",-0.6297229015526391,0.1051102890982938,2.084672878766014e-09,0.5327394018170666,True
+P7STGBS: Situación económica actual del país comparada con hace doce meses,0.7768154650928117,0.13744238688668817,1.5865140090554064e-08,2.174536340628675,True
+S20A: Bienes: Una vivienda donde los padres tienen una habitación distinta de los hijos,-0.3339009109560086,0.06537209159738364,3.261070560256485e-07,0.7161247388273886,True
+P27ST: Las elecciones en este país son limpias o son fraudulentas,0.6041245362119623,0.13690692403786367,1.0210542662925093e-05,1.8296497154549651,True
+P16ST: Autoubicación en escala Izquierda-Derecha,0.4709900142105975,0.11295404276658352,3.0493520417174125e-05,1.6015789945640035,True
+P2ST: Imagen de progreso del país,0.49292466196173373,0.13246633585091427,0.0001983320798741861,1.6370971810530475,True
+P12STGBS.A: Satisfacción con la democracia,0.37817913527259817,0.145354585975186,0.009274415088523558,1.4596243896708607,True
+P55ST: Progreso en la reducción de corrupción en las instituciones del Estado en los últimos 2 años,0.2061837886334756,0.102107392333722,0.04345774549896375,1.2289790556213982,True
+S6: Beneficiario/a de algún programa de ayuda del estado,0.2446306377936472,0.12374859304110807,0.04806020376029241,1.2771494953189697,True
+S20E: Bienes: Auto,-0.21459538473606726,0.10992098858532076,0.050906225954866935,0.8068678451847879,False
+S20B: Bienes: Casa propia,0.205867488742706,0.11136791437351816,0.06452498450329802,1.2285903911508522,False
+P17ST: Cuán justa es la distribución del ingreso en {PAÍS},0.2216629940158827,0.12815179948610148,0.08368552570838128,1.2481506727324008,False
+P12STGBS.B: Satisfacción con el funcionamiento de la economía en (país),-0.24137350069849056,0.14139648806473076,0.08780930811899856,0.7855481687987054,False
+S20K: Bienes: Calefacción/aire acondicionado,-0.21466607070181357,0.13007984672593992,0.0988889794118617,0.8068108129676339,False
+S2: Clase social subjetiva,0.17485467677730188,0.11861796243418102,0.1404548084473154,1.1910731134513923,False
+S11: Nivel de estudios alcanzado - Entrevistado,0.15252313775105691,0.11906501987561466,0.20019116657897018,1.1647694119275258,False
+SEXO: Sexo,-0.11544833612440715,0.1006194093083666,0.2512260885443127,0.8909666018357087,False
+P13ST: {PAÍS} gobernado por unos cuantos grupos poderosos en su propio beneficio o para el bien de todo el pueblo,0.11023591734138272,0.11725925267924614,0.34716410851516466,1.1165414508802807,False
+P51ST: Frecuencia con la que se preocupa de que pueda llegar a ser víctima de un delito con violencia,-0.09874255632683807,0.11332017725006557,0.38355816495287454,0.9059759157708832,False
+"S5: El salario o sueldo que Ud. percibe y el total del ingreso familiar, le permite cubrir satisfactoriamente sus necesidades",-0.08464066996885475,0.10111212170421159,0.4025379563715388,0.9188423927545891,False
+"P18ST.C: Acuerdo/Desacuerdo: Está bien que el Presidente pase por encima de las leyes, el parlamento y/o las instituciones con el objeto de resolver los problemas",0.09401604374213077,0.12111591227581221,0.4376022817670808,1.0985773710678388,False
+P9STGBS: Como será su situación económica y la de su familia dentro de doce meses,-0.0889666700322096,0.12138692847647191,0.4636084178546076,0.914876065856103,False
+P18ST.B: Acuerdo/Desacuerdo: No me importaría que un gobierno no democrático llegara al poder si resuelve los problemas,-0.07486806022542368,0.10699239363264437,0.4840826699036007,0.9278659006704865,False
+P6STGBS: Situación económica actual del país,-0.08623605331950922,0.12499453209557444,0.49024537459464934,0.9173776556186094,False
+P18ST.A: Acuerdo/Desacuerdo: La democracia puede tener problemas pero es el mejor sistema de gobierno,0.074325599000114,0.11731683803561037,0.5263772320479663,1.0771574698002808,False
+P26ST: La manera como uno vota puede hacer que las cosas sean diferentes en el futuro,-0.08302128750275757,0.13172209780007313,0.5285139699386552,0.920331555451071,False
+S17.A: Día de nacimiento,0.05678728182568684,0.10206250271313674,0.5779394122606549,1.0584306390141585,False
+P18ST.D: Acuerdo/Desacuerdo: Deberíamos deshacernos de las elecciones y del parlamento y dejar que los expertos tomaran las decisiones por la gente.,0.05518662893146049,0.11389928633042862,0.6280159599839825,1.0567378141224444,False
+S7: Raza/Etnia a la que pertenece,-0.047832822756477766,0.11378845428341448,0.6742179390395919,0.9532931426766801,False
+S4: Preocupación de quedar sin trabajo dentro de los próximo doce meses,0.0452589691990928,0.11108394463292938,0.6836919480035726,1.0462987839848077,False
+S17.B: Mes de nacimiento,-0.04264490376600297,0.10626820899893516,0.6882029247346633,0.9582516011944165,False
+S17: Fecha de nacimiento,0.09373770145985191,0.2557442746146027,0.7139703530467307,1.0982716330869935,False
+S10: Edad de finalización de estudios - Entrevistado,-0.03400584320992004,0.1193167998025533,0.7756405765794805,0.9665658567738031,False
+S17.C: Año de nacimiento,0.059008093336576924,0.271789819286768,0.8281231781578589,1.0607838259859563,False
+S24: Apreciación nivel socioeconómico (realizado por el encuestador),-0.00982374990622319,0.1136149207000771,0.9310965274052059,0.9902243455036148,False
+S18.A: Estado ocupacional,-0.00779569880039859,0.11374877809956342,0.9453602753908288,0.992234608851915,False
+S21A: Edad de finalización de estudios - Jefe de familia,0.0011302868372134185,0.13298849285220696,0.9932187549460405,1.0011309258521146,False
+P10STGBS: Se puede confiar en la mayoría de las personas o uno nunca es lo suficientemente cuidadoso en el trato con los demás,0.0002142105081464464,0.12698398164269217,0.9986540414472787,1.0002142334528556,False
+S20C: Bienes: Lavarropas/Lavadora,0.0,0.0,,1.0,False
+S20D: Bienes: Teléfono celular/móvil/smartphone,0.0,0.0,,1.0,False
+S20F: Bienes: Agua caliente de cañería,0.0,0.0,,1.0,False
+S20G: Bienes: Alcantarillado/Cloacas,0.0,0.0,,1.0,False
+S20H: Bienes: Al menos una comida caliente al día,0.0,0.0,,1.0,False
+S20I: Bienes: Agua potable,0.0,0.0,,1.0,False
+S20J: Bienes: Conexión a Internet en el hogar,0.0,0.0,,1.0,False
+S21B: Nivel de estudios alcanzado - Jefe de familia,0.0,0.0,,1.0,False
+S22A: Estado ocupacional del jefe de familia,0.0,0.0,,1.0,False
+S22B: Situación ocupacional del jefe de familia anteriormente,0.0,0.0,,1.0,False
+S23: Tipo de trabajo que realiza el jefe de familia,0.0,0.0,,1.0,False
+S25: Apreciación de la condición de la entrevista,0.0,0.0,,1.0,False
