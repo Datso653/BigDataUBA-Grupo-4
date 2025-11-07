@@ -1,0 +1,5 @@
+﻿Modelo,Accuracy,F1
+Logit,0.854,0.335
+KNN (K-CV),0.968,0.903
+Logit LASSO (λ^cv),0.854,0.335
+Logit Ridge (λ^cv),0.854,0.335
